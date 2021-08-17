@@ -24,7 +24,7 @@ const start = () => {
                 'Update Employee',
                 'Add Employee',
                 'Add Role',
-                'Add Department?'
+                'Add Department'
             ]
         }])
         .then((response) => {
